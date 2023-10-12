@@ -1,5 +1,6 @@
 # SeminarioInteligenciaArtificial_Grupo1_Oct2023
 Repositorio para el proyecto final de la maestría en Inteligencia Artificial_ÓscarRubénCornejoArellano_DiógenesLuisNazarioHuanaco
+
 El código Fase1_DetectorLenguajeCorporalV1_0.ipynb se pudo llevar a cabo gracias al tutorial ofrecido por (Renotte, 2021) de donde se pudo implementar el modelo de reconocimiento de lenguaje corporal.
 El código Fase2_Customer_Car_Purchase_Prediction_grafico-5.ipynb se adaptó gracias al código publicado por (GeeksForGeeks, 2023), con el cual se pudo implementar el modelo de ensamble para la predicción de compra.
 
