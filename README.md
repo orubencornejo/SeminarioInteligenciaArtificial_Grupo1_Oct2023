@@ -1,0 +1,2 @@
+# SeminarioInteligenciaArtificial_Grupo1_Oct2023
+Repositorio para el proyecto final de la maestría en Inteligencia Artificial_ÓscarRubénCornejoArellano_DiógenesLuisNazarioHuanaco
