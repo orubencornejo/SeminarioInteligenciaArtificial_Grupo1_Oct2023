@@ -7,4 +7,4 @@ El código Fase2_Customer_Car_Purchase_Prediction_grafico-5.ipynb se adaptó gra
 Fuentes de información:
 GeeksForGeeks. (2023, Marzo 27). Ensemble Methods in Python . Retrieved from Python3: https://www.geeksforgeeks.org/ensemble-methods-in-python/
 
-Renotte, N. (2021, Octubre 23). Build a Facial Recognition App // Deep Learning Project // Paper2Code. Retrieved from Youtube: https://youtu.be/43eAC1LMrsU?si=3Ztt1dTYgWy98sgK
+Renotte, N. (2021, Octubre 23). Decodificador de lenguaje corporal con IA con MediaPipe y Python en 90 minutos. Retrieved from Youtube: https://youtu.be/We1uB79Ci-w?si=TELep0wf-1qylOuj
